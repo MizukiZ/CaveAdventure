@@ -23,4 +23,8 @@ The knife can defeat the zombie permanently but the timing is really difficult t
 
 ## Built With
 
-- UnityWhen
+- Unity
+
+## Future plans
+
+The "store" button on the home page and "next level" buttons are not implemented at the moment. Hence In the future, I would like to implement multiple levels feature, the store funciton that user can purchase Items that help them and world rank feature that you can compete against other players.
